@@ -1,0 +1,43 @@
+{
+    "quest": [
+        {
+            "id": "1",
+            "id_jenis_quest": "2",
+            "id_sub_quest": "5",
+            "quesioner": "Bagaimana kompetensi admin prodi dalam memberikan pelayanan?",
+            "type_quest": "Type1",
+            "is_active": "1",
+            "created_at": "2024-04-16 06:35:49",
+            "updated_at": "2024-05-29 10:57:07",
+            "is_delete": "0",
+            "jenis_quest_title": "Tenaga Kependidikan",
+            "sub_quest_title": "Administrasi Prodi"
+        },
+        {
+            "id": "5",
+            "id_jenis_quest": "2",
+            "id_sub_quest": "6",
+            "quesioner": "Bagaimana kompetensi tenaga kependidikan di BAA dalam memberikan pelayanan? ",
+            "type_quest": "Type1",
+            "is_active": "1",
+            "created_at": "2024-04-16 06:35:49",
+            "updated_at": "2024-04-24 06:35:07",
+            "is_delete": "0",
+            "jenis_quest_title": "Tenaga Kependidikan",
+            "sub_quest_title": "Administrasi Akademik BAA"
+        },
+        {
+            "id": "9",
+            "id_jenis_quest": "2",
+            "id_sub_quest": "7",
+            "quesioner": "Bagaimana kompetensi tenaga kependidikan di BAKEU dalam memberikan pelayanan? ",
+            "type_quest": "Type1",
+            "is_active": "1",
+            "created_at": "2024-04-24 06:37:46",
+            "updated_at": "2024-04-24 06:38:48",
+            "is_delete": "0",
+            "jenis_quest_title": "Tenaga Kependidikan",
+            "sub_quest_title": "Administrasi Keuangan"
+        }
+    ]
+}
